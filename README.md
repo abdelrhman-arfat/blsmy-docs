@@ -58,6 +58,3 @@ The API is designed to be a comprehensive solution for applications requiring sa
 </p>
 
 ---
-
-
-تحب أضيفلك كمان **Badges** في أول الـ README (زي stars, forks, license, build passing) عشان يبقى شكله زي الـ repos الاحترافية على GitHub؟
