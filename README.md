@@ -37,6 +37,7 @@ The API is designed to be a comprehensive solution for applications requiring sa
 ### 📅 User Bookings
 - `GET /user/bookings`: Retrieve all bookings for the authenticated user.  
 - `POST /user/bookings`: Create a new booking for the authenticated user.
+- `POST /salons/available_time/{slaon}?staff_id&date=yyyy-mm-dd`: Create a new booking for the authenticated user.
 
 ### 🏡 User Addresses
 - `GET /user/addresses`: Retrieve all addresses associated with the authenticated user.  
